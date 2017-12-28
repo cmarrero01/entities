@@ -19,7 +19,7 @@
     "mocha-lcov-reporter": "*",
     "coveralls": "*",
     "istanbul": "*",
-    "jshint": "2"
+    "jshint": "git+https://github.com/cmarrero01/jshint.git"
   },
   "scripts": {
     "test": "mocha && npm run lint",
